@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | We use Git to track content and store it locally and in a remote repository, work parallel with other developers, and maintain a history of code changes and updates. |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | Make Directory - creates a new folder within the CLI|
@@ -21,8 +21,7 @@
             color: rgba(255, 210, 33, .75);
         }
     ```
-
-    > | ANSWER HERE |
+       > |The three properties as shown in the example are: h1 - Selector; color - property; rgba - value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
