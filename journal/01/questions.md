@@ -6,13 +6,13 @@
     > | Make Directory - creates a new folder within the CLI|
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | A pseudo-class is a CSS that is called/activated in the event of an action made by the user. button:hover|
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | Specificity indicates which CSS selector(s) carry more weight in comparison to others. If a selector has a higher specificity it will override a rule that has lower specificity. I think it will be beneficial because it will help keep CSS rules from getting to disorganized, and also useful to to be able to apply a variety of rules to properties. |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | !important is a style declaration that overrides every other styling rule. Over-utilization might slow down the page loading and potentially unintentionally override styling rules you want to keep. I'd imagine !important declarations don't work very well together. |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
@@ -21,7 +21,7 @@
             color: rgba(255, 210, 33, .75);
         }
     ```
-       > |The three properties as shown in the example are: h1 - Selector; color - property; rgba - value |
+       > |The three properties as shown in the example are: h1 - Selector; color - Property; rgba - Value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
