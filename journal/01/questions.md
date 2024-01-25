@@ -27,10 +27,10 @@
     > | ANSWER HERE |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | Wireframing allows you to sketch a rough draft of what you are planning to code. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | Wireframes are valuable because it seems it takes a little bit of time at the beginning  |
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
