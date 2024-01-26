@@ -24,7 +24,7 @@
        > |The three properties as shown in the example are: h1 - Selector; color - Property; rgba - Value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | An accessible design enables folks to easily visually process the message you are trying to convey. Design can illicit the reaction or emotion you are trying to achieve upon first impression, before the user has had to chance to consume the content. |
 
 08. What is the purpose of ***wireframing***?
     > | Wireframing allows you to sketch a rough draft of what you are planning to code. |
@@ -33,7 +33,7 @@
     > | Wireframes are valuable because it seems it takes a little bit of time at the beginning  |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | Flex is a display property that allows you to manipulate the position of the direct children of the element it is applied to. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Margin, border, and padding are the components of the box model that affect it's size. |
