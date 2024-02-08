@@ -17,7 +17,8 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | delete fruit[2];  |
+    > | delete fruit[2]; 
+     |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
