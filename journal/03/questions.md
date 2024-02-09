@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | Proxy objects allow further security and encapsulation by aliasing data and throwing errors when the original data is attempted to be accessed.|
+  > | Proxy objects allow further security and encapsulation by aliasing data and throwing errors when the original data is attempted to be accessed. It allows you to clearly define getters and setters.|
 
 05. What the difference between a `class` and an instance of a `class`?
   
