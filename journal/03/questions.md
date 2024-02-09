@@ -17,11 +17,11 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | A class is a blueprint for creating objects where a class instance, and the instance is the object itself|
+  > | A class is a blueprint for creating objects where a class instance, and the instance is the object itself. I am a little bit unclear on the differentiation, I will read more documentation on it this weekend.|
 
 06. What is a computed Property?
   
-  > | Computed properties are object properties that are created using an expression in square brackets. |
+  > | Computed properties are object properties that are created using an expression in square brackets.The result of processing a variable. I am a little bit unclear on this definition. |
 
 07. What is the purpose of the `MVC` pattern?
   
@@ -37,4 +37,4 @@
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | The 'model' handles data representation. |
+  > | The 'model' handles data representation. |    
