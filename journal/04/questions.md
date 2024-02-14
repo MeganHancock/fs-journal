@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | Synchronous code runs from top to bottom in the order that its read without stopping, while asynchronous code will wait until the current line of code is completed before moving on. |
 
 02. What is an event listener?
 
