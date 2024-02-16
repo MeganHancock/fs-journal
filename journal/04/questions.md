@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | Representational State Transfer .. REST is a design pattern for APIs. It has created universal standards for APIs to ensure they are uniform in structure and easy to use.|
 
 04. What is a callback / higher order function?
 
@@ -21,7 +21,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Get, Put, and Post |
 
 07. What does the `API` acronym stand for?
 
@@ -29,16 +29,16 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | Make the function 'async' to 'await' a promise response.|
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > | Encapsulation is a way of organizing data and abstracting data so as to secure it and prevent  access to it. |
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | 200 OK |
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | Bad Request |
