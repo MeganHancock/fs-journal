@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | The view |
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | Component-Based Architecture is a framework that focuses on turning elements into separate reusable parts. |
 
 04. What are the three tags that make up a Vue component?
 
