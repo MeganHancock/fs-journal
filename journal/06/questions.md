@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | The view |
+  > | main.js is the entry point to a Vue application. |
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -33,8 +33,10 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | Props are custom attributes that you can use to register on any component. The values are established in a parent element, and passed down to its child components. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
   > | ANSWER HERE |
+
+NOTE: URI stands for Universal Resource Identifier, and URL stands for Universal Resource Locator.
