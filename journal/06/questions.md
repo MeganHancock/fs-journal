@@ -5,7 +5,7 @@
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | A component is a reusable and injectable feature, the page is where the component is injected and displayed. A page can have many components and a component can be injected into many different pages. |
 
 03. What is ***Component-Based Architecture***?
 
@@ -13,7 +13,7 @@
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > | The three tags that make up a Vue component are template (HTML), script (JavaScript), and style (CSS). |
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
