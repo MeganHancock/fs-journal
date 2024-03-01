@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > |  |
+  > | router-view |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
@@ -39,4 +39,4 @@
 
   > | The watch method |
 
-NOTE: URI stands for Universal Resource Identifier, and URL stands for Universal Resource Locator.
+NOTE to self: URI stands for Universal Resource Identifier, and URL stands for Universal Resource Locator.
