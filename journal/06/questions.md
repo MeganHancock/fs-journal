@@ -17,19 +17,19 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | A lifecycle hook is a function that calls functions within it at the beginning of the pages 'lifecycle' (on page load). I think there is a lot more to the definition, but so far that is my understanding of it, as we've only learned the onMounted lifecycle hook so far. |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > |  |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | The Appstate holds global data, where the state holds data within a single file. |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | Vue services handle manipulating or changing data. |
 
 09. What are ***props*** and how are they used? Provide an example
 
@@ -37,6 +37,6 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | The watch method |
 
 NOTE: URI stands for Universal Resource Identifier, and URL stands for Universal Resource Locator.
